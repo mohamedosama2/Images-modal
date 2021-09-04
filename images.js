@@ -1,0 +1,25 @@
+const images = [
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+  "https://i.insider.com/5dc098e0d8d84605b9674ef9?width=1000&format=jpeg&auto=webp",
+];
+
+export default images;
